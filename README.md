@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Nicolly Ribeiro Luz!
 
-<!--
-**nini1504/nini1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Estudante%20de%20SI-blue?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Universidade-UFU-red?style=for-the-badge" alt="UFU">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+- 🎓 Estudante de **Sistemas de Informação** na **Universidade Federal de Uberlândia (UFU)**.
+- 👩‍🏫 **Instrutora**: Ministro cursos e workshops técnicos dentro da universidade.
+- 🛠️ Desenvolvo projetos acadêmicos e pesquisas com foco em **Bancos de Dados** e **Robótica**.
+- 🔬 Entusiasta de tecnologias emergentes e arquiteturas de dados.
+
+---
+
+### 🧠 Inteligência Artificial
+- **Foco:** Estudo de **Embeddings** e modelos para representação de dados.
+- **Recuperação da Informação:** Busca semântica e processamento eficiente de dados.
+- **Bancos Vetoriais:** Implementação de soluções para busca por similaridade.
+
+---
+
+### 🛠️ Tecnologias e Linguagens
+| Categoria | Ferramentas |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Bancos Relacionais** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![PgVector](https://img.shields.io/badge/PgVector-336791?style=flat-square) |
+| **Bancos NoSQL** | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-d82c20?style=flat-square&logo=redis&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287b1?style=flat-square&logo=apachecassandra&logoColor=white) |
+| **Bancos Vetoriais** | ![Qdrant](https://img.shields.io/badge/Qdrant-df3a3a?style=flat-square) ![Weaviate](https://img.shields.io/badge/Weaviate-1c1c1c?style=flat-square&logo=weaviate) |
+
+---
+
+### 🔭 Outros Interesses
+- 🗄️ **Bancos de Dados:** Modelagem Relacional, Não-Relacional e Vetorial.
+- 🦾 **Robótica:** Integração hardware-software.
+- ⚛️ **Computação Quântica:** Estudos sobre o futuro da computação.
+
+---
+
+### 📫 Vamos nos conectar?
+<div>
+  <a href="https://www.linkedin.com/in/nicolly-ribeiro-luz-799313316/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/nicollyribluz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:nicolyluz.ribeiro@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nini1504&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
