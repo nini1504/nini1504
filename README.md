@@ -15,10 +15,11 @@
 
 ---
 
-### 🧠 Inteligência Artificial
+### 🧠 Áreas de pesquisa
 - **Foco:** Estudo de **Embeddings** e modelos para representação de dados.
 - **Recuperação da Informação:** Busca semântica e processamento eficiente de dados.
 - **Bancos Vetoriais:** Implementação de soluções para busca por similaridade.
+- **Robótica:** Implementação de Processamento de Linguagem Natural (PLN) em dispositivos robóticos. 
 
 ---
 
@@ -33,8 +34,9 @@
 ---
 
 ### 🔭 Outros Interesses
-- 🗄️ **Bancos de Dados:** Modelagem Relacional, Não-Relacional e Vetorial.
-- 🦾 **Robótica:** Integração hardware-software.
+- 🧠 **Inteligência Artificial:** Machine Learning (ML), Large Language Models (LLMs) e Retrieval-Augmented Generation (RAG).
+- 🗄️ **Bancos de Dados:** Modelagem Relacional, NoSQL e Vetorial.
+- 🦾 **Robótica:** Integração hardware-software e PLN.
 - ⚛️ **Computação Quântica:** Estudos sobre o futuro da computação.
 
 ---
