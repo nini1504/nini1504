@@ -15,14 +15,6 @@
   
 ---
 
-### 🧠 Áreas de pesquisa
-- **Foco:** Estudo de **Embeddings** e modelos para representação de dados.
-- **Recuperação da Informação:** Busca semântica e processamento eficiente de dados.
-- **Bancos Vetoriais:** Implementação de soluções para busca por similaridade.
-- **Robótica:** Implementação de Processamento de Linguagem Natural (PLN) em dispositivos robóticos. 
-
----
-
 ### 🛠️ Tecnologias e Linguagens
 | Categoria | Ferramentas |
 | :--- | :--- |
@@ -30,6 +22,14 @@
 | **Bancos Relacionais** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
 | **Bancos NoSQL** | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-d82c20?style=flat-square&logo=redis&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287b1?style=flat-square&logo=apachecassandra&logoColor=white) |
 | **Bancos Vetoriais** | ![Qdrant](https://img.shields.io/badge/Qdrant-df3a3a?style=flat-square) ![Weaviate](https://img.shields.io/badge/Weaviate-1c1c1c?style=flat-square&logo=weaviate) ![PgVector](https://img.shields.io/badge/PgVector-336791?style=flat-square) |
+
+---
+
+### 🧠 Áreas de pesquisa
+- **Foco:** Estudo de **Embeddings** e modelos para representação de dados.
+- **Recuperação da Informação:** Busca semântica e processamento eficiente de dados.
+- **Bancos Vetoriais:** Implementação de soluções para busca por similaridade.
+- **Robótica:** Implementação de Processamento de Linguagem Natural (PLN) em dispositivos robóticos. 
 
 ---
 
